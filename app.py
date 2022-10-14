@@ -1,4 +1,4 @@
-from funciones import saludar, saludoPersonal
+from funciones import *
 from funciones2 import suma, agregarNumeroLista
 
 def llamarSaludo():
